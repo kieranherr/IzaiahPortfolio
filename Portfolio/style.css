@@ -72,4 +72,8 @@ body{
     align-content: center;
 }
 
-   
+.img-fit{
+    object-fit: contain;
+    width: auto;
+    height: 676px;
+}
